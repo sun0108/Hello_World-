@@ -7,7 +7,7 @@
       
       This assingment will help students understand some basic and core functions used in Github
  
-## How to run Program；
+## How to run Program :
       
       After you get into this repository, you can download the files inside it freely.
       This repository should be an example of your github assingmnet.
